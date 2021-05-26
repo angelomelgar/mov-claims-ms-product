@@ -19,5 +19,4 @@ public class Product implements Serializable {
     private String productName;
     private String technology;
 
-
 }
